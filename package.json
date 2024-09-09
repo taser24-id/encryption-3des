@@ -1,0 +1,16 @@
+{
+  "name": "encryption-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RipanFauzi",
+  "license": "ISC",
+  "description": "Encrypt Decrypt Using 3DES",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.19.2"
+  }
+}
